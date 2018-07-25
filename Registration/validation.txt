@@ -1,0 +1,4 @@
+this project complete with validation 
+Email validation
+Phn validation
+Name Length validation
